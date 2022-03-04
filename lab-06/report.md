@@ -173,7 +173,7 @@ Shortest path between pound and marks is
 None
 ```
 
-**2.)**
+**2.)**\
 Code:
 ```
 """
@@ -299,7 +299,7 @@ make
 take
 ```
 
-**3.)**
+**3.)**\
 Code:
 ```
 """
