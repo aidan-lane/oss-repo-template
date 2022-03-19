@@ -30,6 +30,8 @@ https://github.com/aidan-lane/oss-step5-lab07
 
 ![](pr.png)
 
+![](pr2.png)
+
 ## Checkpoint 5
 N/A
 
