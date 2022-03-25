@@ -5,21 +5,27 @@
 ***
 
 ## Example 01
+
 Here you can see the command `vim test` runs succesfully, and cowsay outputs:
+
 ![](cowsay.png)
 ***
 
 ## Example 02
 `docker ps`:
+
 ![](02_1.png)
 
 Stopping and removing containers:
+
 ![](02_2.png)
 
 `docker images`:
+
 ![](02_3.png)
 
 Removes images:
+
 ![](02_4.png)
 ***
 
